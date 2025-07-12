@@ -39,6 +39,11 @@ $$= \frac{512}{3} - 192 - 72 + 108 = \frac{512}{3} - 156 = \frac{512 - 468}{3} =
 
 **Respuesta:** $A = 36 + \frac{44}{3} = \frac{108 + 44}{3} = \frac{152}{3}$ unidades cuadradas
 
+::: {.center}
+![Problema 1](images/problema1.jpeg){width=68%}
+:::
+
+
 ---
 
 ## Problema 2
@@ -66,6 +71,9 @@ $$A = \left[3x - \frac{x^2}{2} - \frac{x^3}{3}\right]_0^1 = 3 - \frac{1}{2} - \f
 
 **Respuesta:** $A = \frac{13}{6}$ unidades cuadradas
 
+::: {.center}
+![Problema 2](images/problema2.jpeg){width=68%}
+:::
 ---
 
 ## Problema 3
@@ -99,6 +107,9 @@ $$A = 1 - \frac{1}{9} \cdot \frac{1}{2} = 1 - \frac{1}{18} = \frac{17}{18}$$
 
 **Respuesta:** $A = \frac{17}{18}$ unidades cuadradas
 
+::: {.center}
+![Problema 3](images/problema3.jpeg){width=68%}
+:::
 ---
 
 ## Problema 4
@@ -135,3 +146,7 @@ $$A = \int_0^3 (2y-y^2+y) \, dy = \int_0^3 (3y-y^2) \, dy$$
 $$A = \left[\frac{3y^2}{2} - \frac{y^3}{3}\right]_0^3 = \frac{3(9)}{2} - \frac{27}{3} = \frac{27}{2} - 9 = \frac{27-18}{2} = \frac{9}{2}$$
 
 **Respuesta:** $A = \frac{9}{2}$ unidades cuadradas
+
+::: {.center}
+![Problema 4](images/problema4.jpeg){width=50%}
+:::
