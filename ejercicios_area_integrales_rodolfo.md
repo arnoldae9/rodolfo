@@ -1,3 +1,6 @@
+---
+geometry: margin=1in
+---
 # Solución de Ejercicios de Área con Integrales
 
 ## Problema 1
